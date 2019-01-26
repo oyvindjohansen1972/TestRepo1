@@ -5,3 +5,5 @@ Added third line
 4.line here lokalt
 
 Linje 5 lagt til
+
+linje 6
