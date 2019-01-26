@@ -7,4 +7,8 @@ Added third line
 Linje 5 lagt til
 
 linje 6
+
 linje 7
+
+linje 8
+
